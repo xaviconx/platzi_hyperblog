@@ -4,3 +4,5 @@ tengo 25 años y vivo en México.
 En la ciudad de Puebla. 
 
 Hoy hablaremos de mi historia.
+
+Estoy tomando un curso de git y github. Estoy orgulloso de mi.
